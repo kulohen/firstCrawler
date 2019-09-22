@@ -1,0 +1,6 @@
+http://www.mzitu.com/
+
+http://www.taotu.la/
+#2019-06-13 对代码分离
+saveFile.py 保存图片
+threadDownloadPicture.py 多线程，下载
